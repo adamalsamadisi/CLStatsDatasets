@@ -1,0 +1,131 @@
+"","Country","Status","BMI","Measles","Schooling","UnderFive","GDP","LifeExpectancy"
+"1","Afghanistan","Developing",18.1,430,9.9,89,631.744976,59.9
+"2","Albania","Developing",56.5,0,14.2,1,4414.72314,77.2
+"3","Algeria","Developing",57.2,25,14.4,24,5471.866766,75.3
+"4","Angola","Developing",22.1,8523,11.4,105,484.616884,51.1
+"5","Argentina","Developing",61.6,0,17.3,10,12976.63642,76
+"6","Armenia","Developing",53.3,10,12.7,1,3843.591213,74.4
+"7","Australia","Developed",65.5,158,20.3,1,67792.3386,82.5
+"8","Austria","Developed",56.6,0,15.7,0,554.71532,81.1
+"9","Azerbaijan","Developing",5.6,164,11.9,6,7875.756953,72.2
+"10","Bangladesh","Developing",17,237,10,130,951.8894535,71
+"11","Belarus","Developing",61.1,16,15.7,1,7978.825443,71.7
+"12","Belgium","Developed",63,39,16.3,1,4651.38647,87
+"13","Belize","Developing",49.3,0,12.9,0,4688.538443,69.8
+"14","Benin","Developing",24.6,637,10.3,39,915.2674586,59.5
+"15","Bhutan","Developing",22.7,0,12.6,1,235.882889,69.1
+"16","Bosnia and Herzegovina","Developing",54.7,0,14.2,0,535.86555,77
+"17","Botswana","Developing",36.8,1,12.6,2,77.625783,64.2
+"18","Brazil","Developing",54.5,220,14.2,52,12216.9446,74.7
+"19","Bulgaria","Developed",64.5,14,14.4,1,7674.86559,74.1
+"20","Burkina Faso","Developing",18.2,375,7.5,66,699.452847,59
+"21","Burundi","Developing",17.6,0,10.5,32,282.7555252,58.6
+"22","Cabo Verde","Developing",29.7,0,13.6,0,3558.796314,72.8
+"23","Cambodia","Developing",18.2,0,10.8,13,128.419568,67.8
+"24","Cameroon","Developing",27.8,760,10.4,73,1365.34419,56.4
+"25","Canada","Developing",65.8,83,15.9,2,52413.72116,81.8
+"26","Central African Republic","Developing",21.6,596,7.1,23,337.4849614,49.9
+"27","Chad","Developing",18.2,226,7.3,78,986.13177,52.2
+"28","Chile","Developing",62.5,0,15.6,2,15941.39722,81
+"29","China","Developing",3.9,26883,12.7,216,777.77594,75.6
+"30","Colombia","Developing",56.4,1,13.3,13,83.5863,74.4
+"31","Comoros","Developing",23.2,0,10.9,2,834.341949,62.9
+"32","Costa Rica","Developing",58.5,0,13.7,1,1569.66631,79.4
+"33","Croatia","Developed",62.5,0,14.9,0,13574.749,77.7
+"34","Cyprus","Developed",59.2,0,13.8,0,2797.96736,81
+"35","Djibouti","Developing",33.8,28,6.3,2,1622.637974,62.7
+"36","Dominican Republic","Developing",56.8,0,13.2,7,627.55544,73.4
+"37","Ecuador","Developing",52.8,0,13.4,8,674.9829,76
+"38","El Salvador","Developing",54.7,0,13.2,2,3895.664491,73
+"39","Estonia","Developing",59,2,16.5,0,1929.7746,76.9
+"40","Ethiopia","Developing",16.8,5253,8.4,211,52.1535887,63.7
+"41","Fiji","Developing",61.1,0,15,0,4763.68956,69.6
+"42","France","Developing",61.6,272,16.2,3,42554.1225,82
+"43","Gabon","Developing",35.2,122,12.5,3,9679.742995,64.6
+"44","Georgia","Developing",54.4,7872,13.5,1,4274.376857,74.5
+"45","Germany","Developed",61.4,1771,16.9,3,4653.91143,86
+"46","Ghana","Developing",27.3,319,11.5,55,1814.492297,61.9
+"47","Greece","Developing",65.4,3,17.1,0,21874.8195,86
+"48","Guatemala","Developing",49.3,0,10.7,13,3452.828934,71.4
+"49","Guinea","Developing",22.2,53,8.5,41,54.169324,58.8
+"50","Guinea-Bissau","Developing",25,0,9.1,6,61.566347,58.1
+"51","Guyana","Developing",45,0,10.3,1,3944.178173,65.9
+"52","Haiti","Developing",47.7,0,9.1,19,81.265673,62.7
+"53","Honduras","Developing",49.3,0,11.6,4,2136.77395,74.3
+"54","India","Developing",17.5,13822,11.5,1300,1452.195373,67.6
+"55","Indonesia","Developing",25.6,8419,12.9,148,362.663981,68.7
+"56","Iraq","Developing",57.8,669,10.3,39,6925.22446,69.5
+"57","Ireland","Developed",61.3,51,18.6,0,5234.76736,81
+"58","Israel","Developing",64.2,50,15.9,1,36393.66932,82.1
+"59","Italy","Developed",62.6,0,16.5,2,3537.27441,82.3
+"60","Jamaica","Developing",52.7,0,12.8,1,56.144952,75.6
+"61","Jordan","Developing",64,120,13.1,4,3992.86717,73.9
+"62","Kazakhstan","Developing",51.4,73,15,6,1389.8561,69.5
+"63","Kenya","Developing",2.7,190,11.1,81,1229.114798,62.6
+"64","Kiribati","Developing",76.7,0,11.9,0,1724.361737,65.8
+"65","Latvia","Developed",6.2,0,15.4,0,1532.22924,74.1
+"66","Lebanon","Developing",64.9,1761,13.3,1,846.285153,74.9
+"67","Lesotho","Developing",31.4,516,11.1,6,1196.1335,52.1
+"68","Liberia","Developing",26.1,0,9.8,11,454.1222236,61.1
+"69","Lithuania","Developed",61.4,35,16.4,0,15712.82376,73
+"70","Luxembourg","Developed",6.5,0,13.9,0,113751.85,81.4
+"71","Madagascar","Developing",19.5,6,10.3,40,461.723722,64.7
+"72","Malawi","Developing",18.8,1,10.7,42,332.922339,56.7
+"73","Malaysia","Developing",38.5,195,12.9,4,1882.27842,74.6
+"74","Maldives","Developing",25.1,0,12.4,0,7112.33575,77.9
+"75","Mali","Developing",22.5,221,8,86,777.659139,57.3
+"76","Malta","Developed",68.8,0,14.2,0,2393.1888,81.1
+"77","Mauritania","Developing",29.4,62,8.2,12,145.57838,62.7
+"78","Mauritius","Developing",32.3,0,14.7,0,9637.265,74.1
+"79","Mexico","Developing",62.1,0,12.9,37,1298.86766,76.6
+"80","Mongolia","Developing",5.4,0,14.7,1,4385.379355,68.1
+"81","Montenegro","Developing",6.7,0,15.1,0,7186.429787,75.8
+"82","Morocco","Developing",56.5,92,12.1,21,3111.762887,73.9
+"83","Mozambique","Developing",21.8,8,9.1,87,65.985681,55.3
+"84","Myanmar","Developing",22.1,1010,9.1,55,1168.83947,66.2
+"85","Namibia","Developing",34.1,1028,11.6,3,5488.131712,66.1
+"86","Nepal","Developing",18,1861,12.3,24,688.6172788,69.3
+"87","Netherlands","Developed",61,2632,18.1,1,51574.48942,81.4
+"88","Nicaragua","Developing",52.4,0,11.5,3,1847.19849,73.9
+"89","Niger","Developing",18.5,1224,5.3,89,416.14838,69
+"90","Nigeria","Developing",24.1,52852,9.8,773,2996.96432,53.2
+"91","Pakistan","Developing",23.9,8749,7.7,450,1272.44161,66
+"92","Panama","Developing",56.3,0,12.9,1,11685.97983,77.5
+"93","Papua New Guinea","Developing",47.2,12,10,13,229.95364,62.4
+"94","Paraguay","Developing",48.6,0,12.3,3,4479.95858,73.8
+"95","Peru","Developing",54.2,0,13.4,11,6583.116248,75.3
+"96","Philippines","Developing",24.3,2920,11.7,69,276.289146,68.1
+"97","Poland","Developed",6.4,84,15.4,2,1378.54911,77.1
+"98","Portugal","Developed",6.2,1,16.3,0,21618.73534,86
+"99","Romania","Developed",59.2,1159,14.7,2,9585.266593,74.6
+"100","Russian Federation","Developing",59.3,2339,14.6,16,15543.67653,70
+"101","Rwanda","Developing",2.1,17,10.8,17,688.8768557,65.2
+"102","Samoa","Developing",73.8,0,12.9,0,4219.65123,73.6
+"103","Sao Tome and Principe","Developing",29.3,0,11,0,1619.532678,67.1
+"104","Senegal","Developing",23.2,17,8.7,28,148.912351,66
+"105","Serbia","Developing",58.9,1,14.1,1,6353.826383,75.3
+"106","Seychelles","Developing",35.5,0,13.5,0,15687.34795,72.9
+"107","Sierra Leone","Developing",23.3,15,9.3,33,71.8186998,54
+"108","Solomon Islands","Developing",48.9,0,9.5,0,188.5159,68.8
+"109","South Africa","Developing",49.5,25,12.8,54,6876.953821,69
+"110","Spain","Developed",65.4,131,17.5,2,2921.9342,82.4
+"111","Sri Lanka","Developing",21.9,2107,13.8,3,361.289374,74.6
+"112","Suriname","Developing",57,0,12.7,0,9484.56898,71.2
+"113","Swaziland","Developing",31.2,0,11.4,3,3598.75972,57.6
+"114","Sweden","Developed",58.5,51,15.8,0,6283.24522,81.9
+"115","Tajikistan","Developing",39,1,11.2,11,14.214412,69.3
+"116","Thailand","Developing",31.3,2641,13.6,10,6171.262444,74.5
+"117","Timor-Leste","Developing",16.6,4,12.5,2,117.765674,67.7
+"118","Togo","Developing",23.1,564,12,20,579.43485,59.4
+"119","Tonga","Developing",74.3,0,14.3,0,4266.557174,73.2
+"120","Trinidad and Tobago","Developing",45,0,12.7,0,1967.83283,71
+"121","Tunisia","Developing",59.3,16,14.7,3,4199.47253,74.9
+"122","Turkey","Developing",64.5,7405,14.4,20,12542.93565,75.2
+"123","Turkmenistan","Developing",46.7,0,10.7,8,734.42525,65.4
+"124","Uganda","Developing",17.6,7878,10,103,662.492293,67
+"125","Ukraine","Developing",6.1,0,15.2,5,429.71554,71
+"126","Uruguay","Developing",62.9,0,15.5,0,16881.2568,76.8
+"127","Uzbekistan","Developing",43,0,12,19,197.551233,69.1
+"128","Vanuatu","Developing",51.7,0,10.8,0,3167.34356,71.6
+"129","Zambia","Developing",22.3,35,12.5,42,185.793359,63
+"130","Zimbabwe","Developing",3.8,0,10.4,36,111.227396,58
